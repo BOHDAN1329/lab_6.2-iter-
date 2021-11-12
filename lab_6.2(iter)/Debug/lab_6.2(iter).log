@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\АП\Звіти 6\lab_6.2(iter)\Source.cpp(44): warning C4715: 'Find': not all control paths return a value
+  lab_6.2(iter).vcxproj -> D:\АП\Звіти 6\lab_6.2(iter)\Debug\lab_6.2(iter).exe
